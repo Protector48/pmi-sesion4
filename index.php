@@ -1,3 +1,2 @@
 <?php
-header('Location: vistas/index.php');
-exit;
+require_once 'vistas/home.php';
